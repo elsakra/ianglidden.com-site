@@ -1,0 +1,79 @@
+{
+  "company": {
+    "name": "Ian Glidden, ARCHITECTS",
+    "tagline": "ARCHITECTURE . PROJECT MANAGEMENT . CONSTRUCTION REPRESENTATION",
+    "description": "Professional architectural services specializing in architecture, project management, and construction administration.",
+    "phone": null,
+    "email": null,
+    "address": null,
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768941923/auto-site-builder/ianglidden.com/image_0.jpg",
+    "primaryColor": "#1e40af",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Ian Glidden, ARCHITECTS",
+    "subheadline": "ARCHITECTURE . PROJECT MANAGEMENT . CONSTRUCTION REPRESENTATION",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1661663373098-003886896551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cHJvZmVzc2lvbmFsJTIwd29ya3NwYWNlJTIwY2xlYW58ZW58MHwwfHx8MTc2ODg2NTI3MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "sections": {
+    "about": {
+      "headline": "About Us",
+      "content": "We provide comprehensive architectural services including architecture, project management, and construction administration. Our focus is on delivering exceptional design solutions and professional project oversight.",
+      "image": "https://plus.unsplash.com/premium_photo-1677529498680-fdb9d5ee762a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dGVhbSUyMGNvbGxhYm9yYXRpb24lMjBvZmZpY2V8ZW58MHwwfHx8MTc2ODg2OTU2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    "services": {
+      "headline": "Our Services"
+    },
+    "team": {
+      "headline": "Our Team"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Portfolio",
+        "href": "/portfolio"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Ian Glidden, ARCHITECTS. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "ianglidden.com - Home",
+    "description": "architecture, project management, construction administration"
+  }
+}
